@@ -1,0 +1,14 @@
+{
+  "name": "ClearWeek",
+  "short_name": "ClearWeek",
+  "description": "A simple 30-day drink-less tracker.",
+  "start_url": "/hello-world/clearweek/",
+  "scope": "/hello-world/clearweek/",
+  "display": "standalone",
+  "background_color": "#f6f2e8",
+  "theme_color": "#2f6f61",
+  "icons": [
+    {"src":"icon-180.png","sizes":"180x180","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
